@@ -6,11 +6,12 @@ My name is Olga Gryazon and I`m DA student.
 - 🎓 In September 2022 I recently completed DA course at the "Yandex.Practicum".
 - 🌱 I have been studying DA for more than a year and I want to develop in this direction. 
 - 🌱 I’m currently learning - Power BI, introduction to machine learning.
-- 🔨 My skills: *Python* (Pandas, NumPy, Matplotlib, Seaborn), *SQL* (PostgreSQL), A/B test, 
+- 🔨 My skills: **Python** (Pandas, NumPy, Matplotlib, Seaborn), **SQL** (PostgreSQL), **Tableau**, A/B testing. 
 - 📫 How to reach me: **e-mail:** gelana7@yandex.ru, **telegram:** Morjella. 
 
 ### My repositories:
 1. DA projects from "Yandex.Practicum"
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Morjella&repo=DA_Repository)](https://github.com/Morjella/DA_Repository)
 
 <!--
