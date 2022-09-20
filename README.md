@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Olga Gryazon and I`m DA student. 
+I have been studying data analysis for more than a year and I want to develop in this direction. I recently completed DA course at the "Yandex.Practicum".
+
+- 🌱 I’m currently learning - Power BI, introduction to machine learning
+- 🔭 I’m currently working on - 
+
 <!--
 **Morjella/Morjella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
