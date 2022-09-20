@@ -12,7 +12,6 @@ My name is Olga Gryazon and I`m DA student.
 ### My repositories:
 1. DA projects from "Yandex.Practicum"
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Morjella&repo=DA_Repository)](https://github.com/Morjella/DA_Repository)
 
 <!--
 **Morjella/Morjella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
