@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 My name is Olga Gryazon and I`m DA student. 
-I have been studying data analysis for more than a year and I want to develop in this direction. I recently completed DA course at the "Yandex.Practicum".
 
-- 🌱 I’m currently learning - Power BI, introduction to machine learning
-- 🔭 I’m currently working on - 
+- 🎓 I’m graduated from the ITMO university with a degree in Laser Physics.
+- 🎓 In September 2022 I recently completed DA course at the "Yandex.Practicum".
+- 🌱 I have been studying DA for more than a year and I want to develop in this direction. 
+- 🌱 I’m currently learning - Power BI, introduction to machine learning.
+- 🔨 My skills: *Python* (Pandas, NumPy, Matplotlib, Seaborn), *SQL* (PostgreSQL), A/B test, 
+- 📫 How to reach me: **e-mail:** gelana7@yandex.ru, **telegram:** Morjella. 
+
 
 <!--
 **Morjella/Morjella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
