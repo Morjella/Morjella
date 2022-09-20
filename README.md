@@ -4,9 +4,9 @@ My name is Olga Gryazon and I`m DA student.
 
 - 🎓 I’m graduated from the ITMO university with a degree in Laser Physics.
 - 🎓 In September 2022 I recently completed DA course at the "Yandex.Practicum".
-- 🌱 I have been studying DA for more than a year and I want to develop in this direction. 
-- 🌱 I’m currently learning - Power BI, introduction to machine learning.
-- 🔨 My skills: **Python** (Pandas, NumPy, Matplotlib, Seaborn), **SQL** (PostgreSQL), **Tableau**, A/B testing. 
+- 🌱 I have been studying DA for more than a year and I`m going to develop in this direction. 
+- 🌱 I’m currently studying: Power BI, introduction to machine learning.
+- 🔨 My skills: **Python** (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly), **SQL** (PostgreSQL), **Tableau**, A/B testing. 
 - 📫 How to reach me: **e-mail:** gelana7@yandex.ru, **telegram:** Morjella. 
 
 ### My repositories:
