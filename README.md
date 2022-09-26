@@ -13,12 +13,13 @@ My name is Olga Gryazon and I`m DA student.
 1. DA projects from "Yandex.Practicum"
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Morjella&repo=DA_Repository)](https://github.com/Morjella/DA_Repository)
-<!--
-**Morjella/Morjella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 2. Skolkovo Hack 2022, DA44 team
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Morjella&repo=skolkovo_hack)](https://github.com/Morjella/skolkovo_hack)
+
+<!--
+**Morjella/Morjella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
